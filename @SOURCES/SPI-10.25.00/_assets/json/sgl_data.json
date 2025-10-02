@@ -1,0 +1,217 @@
+{
+    "run": "campoRun",
+    "dv": "campoDv",
+    "idTramite": "campoIdTramite",
+    "entrevistaMedica": {
+        "respuestas": [
+            {
+                "respuesta": "",
+                "pregunta": "Resultado Agudeza Visual - Ojo Derecho",
+                "preguntaId": "P26"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Resultado Agudeza Visual - Ojo Izquierdo",
+                "preguntaId": "P27"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Encandilamiento",
+                "preguntaId": "P27_2_CE"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº1",
+                "preguntaId": "P27_1_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº2",
+                "preguntaId": "P27_2_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº3",
+                "preguntaId": "P27_3_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº4",
+                "preguntaId": "P27_4_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº5",
+                "preguntaId": "P27_5_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº6",
+                "preguntaId": "P27_6_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº7",
+                "preguntaId": "P27_7_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº8",
+                "preguntaId": "P27_8_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Prueba Nº9",
+                "preguntaId": "P27_9_VP"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Recuperación",
+                "preguntaId": "P27_3_RECE"
+            },
+            {
+                "pregunta": "Porcentaje Aciertos Visión  Profundidad",
+                "preguntaId": "P27_11_PA",
+                "respuesta": ""
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Vision Binocular",
+                "preguntaId": "P28"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Resultado Campimetria Horizontal",
+                "preguntaId": "P28_1"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Resultado Campimetria Vertical",
+                "preguntaId": "P28_2"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Confrontación",
+                "preguntaId": "P29"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Vision de Colores Rojo",
+                "preguntaId": "P29_1"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Vision de Colores Amarillo",
+                "preguntaId": "P29_2"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Vision de Colores Verde",
+                "preguntaId": "P29_3"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Usuario de audífonos",
+                "preguntaId": "P31"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido derecho campo 1",
+                "preguntaId": "P31_1"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido derecho campo 2",
+                "preguntaId": "P31_2"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido derecho campo 3",
+                "preguntaId": "P31_3"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Promedio tonal puro Derecho",
+                "preguntaId": "P31_4"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido izquierdo campo 1",
+                "preguntaId": "P31_5"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido izquierdo campo 2",
+                "preguntaId": "P31_6"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Oido izquierdo campo 3",
+                "preguntaId": "P31_7"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Promedio tonal puro Izquierdo",
+                "preguntaId": "P31_8"
+            },
+            {
+                "respuesta": "",
+                "pregunta": "Vision nocturna",
+                "preguntaId": "P27_1_VN"
+            }
+        ]
+    },
+    "sicometrico": {
+        "tipoExamen": "Compuesto Punteado Electromecanico",
+        "respuestas": [
+            {
+                "respuestaMultipleFloat": "",
+                "pregunta": "Valores del Reactimetro Simple",
+                "preguntaId": "P37_5_S"
+            },
+            {
+                "respuestaMultipleFloat": "",
+                "pregunta": "Valores del Reactimetro Compuesto",
+                "preguntaId": "P37_5_C"
+            },
+            {
+                "respuestaFloat": "",
+                "pregunta": "Permanencia",
+                "preguntaId": "P38_6_CPE"
+            },
+            {
+                "respuestaFloat": "",
+                "pregunta": "Acierto Electromecanico",
+                "preguntaId": "P38_7_CPE"
+            },
+            {
+                "respuestaFloat": "",
+                "pregunta": "Error Electromecanico",
+                "preguntaId": "P38_Error_Electromecanico"
+            },
+            {
+                "preguntaId": "P38_9_CPE",
+                "pregunta": "Error Palanca",
+                "respuestaFloat": ""
+            },
+            {
+                "preguntaId": "P38_13_PS",
+                "pregunta": "Tiempo Tipo Palanca",
+                "respuestaFloat": ""
+            },
+            {
+                "respuestaFloat": "rptaS7",
+                "pregunta": "Tiempo de permanencia en error (Palanca)",
+                "preguntaId": "P38_14_CPE"
+            }
+        ]
+    },
+    "calificacionFinal": {
+        "respuestas": [],
+        "fechaExamen": "rptaCF1",
+        "archivoCalificacionFinal": {
+            "mime": "application/pdf",
+            "data": "base64"
+        }
+    }
+}

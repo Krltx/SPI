@@ -1,0 +1,13 @@
+[Extras]
+FuenteEx=Segoe UI
+ColorFondoEx=&H00f0f3fa&
+ValidaEquipo=0
+token_url_pos=https://conaset-sgl-proveedores-api-user-pool-prod.auth.sa-east-1.amazoncognito.com/oauth2/token
+client_id_pos=4vf8meksqo1gugbkctiajdi44q
+client_secret_pos=53l77ptk4rui22mu3gr3f7f60nkslhncdb5u8654bf10u5vgv5e
+scope_pos=conasetSglApiProveedoresResourceServerProd/examinacionMedica
+solicitudes_url=https://d3te95k279wld8.cloudfront.net/solicitudes
+examinacion_medica_url=https://d3te95k279wld8.cloudfront.net/examinacion-medica
+env=PROD
+Soporte=No
+sendDataSgl=Si
